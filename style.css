@@ -82,6 +82,7 @@ main .content .main-text {
 
 main .content .stats-row {
     display: flex;
+    margin-top: 50px;
 }
 
 main .content .stats-row div {
